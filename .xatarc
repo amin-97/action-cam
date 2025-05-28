@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://DevelopR-s-workspace-sf4fs9.us-east-1.xata.sh/db/dc_actioncam",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
